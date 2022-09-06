@@ -7,7 +7,7 @@ https://dev.mysql.com/doc/index-other.html
 GitHub   
 https://github.com/datacharmer/test_db
 
-プロジェクト直下で以下のコマンドを実行。
+initフォルダ内で以下のコマンドを実行。
 
 ```
 git clone git@github.com:datacharmer/test_db.git
